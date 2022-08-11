@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Internship Sistema</string>
+    <string name="content_description_thumbnail">Seafood meal</string>
+    <string name="content_description_watch_youtube_videos">Watch youtube videos</string>
+    <string name="detail_title_instructions">Instructions</string>
+    <string name="detail_title_ingredients">Ingredients</string>
+    <string name="detail_watch_video">Watch Video</string>
+    <string name="detail_category">%1$s | From %2$s</string>
+    <string name="detail_empty">Hmm! Nothing data in here.</string>
+    <string name="main_empty_list">Oops! No meals list available</string>
+    <string name="general_error">Oops! Something wrong.</string>
+</resources>
